@@ -1,0 +1,29 @@
+{
+  "name": "nodeTest",
+  "version": "1.0.0",
+  "description": "Sample Test",
+  "main": "hapi_test_index.js",
+  "dependencies": {
+    "good": "^6.1.2",
+    "good-console": "^5.0.0",
+    "hapi": "^8.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test-unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voicetop/node-hapi-Test.git"
+  },
+  "keywords": [
+    "hapi",
+    "node"
+  ],
+  "author": "wooti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voicetop/node-hapi-Test/issues"
+  },
+  "homepage": "https://github.com/voicetop/node-hapi-Test"
+}
